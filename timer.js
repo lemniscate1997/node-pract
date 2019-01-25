@@ -21,5 +21,5 @@ setTimeout(function(){
     process.stdout.write("\n\n\n\n done.....\n\n\n");
 }, waitTime);
 
-process.stdout.write("\n\n\n");
+process.stdout.write("\n\n\n Welcome in to timer environment");
 writeWaitingPercentage(percentWaited);
